@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{355:function(n,t,e){"use strict";e.r(t);var a=e(0),d=(e(1),e(352)),i=e(90),l=e(353),u=e(350);t.default=function(){return Object(a.d)(d.a,null,Object(a.d)(l.a,null),Object(a.d)(i.a,null,Object(a.d)("div",{style:{marginTop:"100px"}},Object(a.d)(u.a.h1,null,"Untuk Indonesia, setara dibidang teknologi!"))))}}}]);
+//# sourceMappingURL=component---src-pages-home-js-38a1f85e71afa40dbf7b.js.map
